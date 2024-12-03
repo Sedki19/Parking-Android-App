@@ -1,0 +1,10 @@
+<resources>
+    <color name="darkgray">#898989</color>
+    <color name="gray">#d5dadf</color>
+    <color name="black">#000000</color>
+    <color name="primaryColor">#2196F3</color>
+    <color name="primaryDarkColor">#1976D2</color>
+    <color name="accentColor">#FFC107</color>
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="nocolor">#00FFFFFF</color>
+</resources>

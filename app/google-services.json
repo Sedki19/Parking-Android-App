@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "204911772138",
+    "firebase_url": "https://citypark-3ba3a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "citypark-3ba3a",
+    "storage_bucket": "citypark-3ba3a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204911772138:android:1a699be746ebb959b3b293",
+        "android_client_info": {
+          "package_name": "com.citypark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204911772138-hft9peimi14pglqfocekr509u4c766v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYECSnzlkedk-_dchTpilW0nv3dUdbRVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204911772138-hft9peimi14pglqfocekr509u4c766v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
